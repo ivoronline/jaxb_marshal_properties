@@ -3,7 +3,7 @@ import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import java.io.File;
 
-public class Test {
+public class Marshal {
 
   public static void main(String[] args) throws JAXBException {
 
